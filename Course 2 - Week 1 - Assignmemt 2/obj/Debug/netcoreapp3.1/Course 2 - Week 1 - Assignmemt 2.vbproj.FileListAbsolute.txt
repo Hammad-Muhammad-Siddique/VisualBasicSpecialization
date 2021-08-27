@@ -1,0 +1,13 @@
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\bin\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.exe
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\bin\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.deps.json
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\bin\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.runtimeconfig.json
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\bin\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.runtimeconfig.dev.json
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\bin\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.dll
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\bin\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.pdb
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\obj\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.vbprojAssemblyReference.cache
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\obj\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.AssemblyInfoInputs.cache
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\obj\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.AssemblyInfo.vb
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\obj\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.vbproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\obj\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.dll
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\obj\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.pdb
+C:\Users\Intel\source\repos\Course 2 - Week 1 - Assignmemt 2\obj\Debug\netcoreapp3.1\Course 2 - Week 1 - Assignmemt 2.genruntimeconfig.cache
